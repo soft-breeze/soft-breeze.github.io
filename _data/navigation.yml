@@ -2,6 +2,7 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "No pages(test)"  
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -10,3 +11,19 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+side:
+  - title: "Test Sidebar"
+    url: https://google.com
+  - title: "Math"
+    url: /math/index  
+  - title: "Physics"
+    url: /physics/index
+# sidebar:
+#   - title: "Title1"
+#   #   image: 
+#   #   image_alt: "image"
+#   #   text: "Some text here."
+#   # - title: "Another Title"
+#     text: "More text here."
+#   - title: "Title1"

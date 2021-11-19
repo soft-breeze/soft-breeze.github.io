@@ -11,3 +11,4 @@ defaults:
 
 Test
 
+git add .; git push -u origin master;git commit -m "test2"

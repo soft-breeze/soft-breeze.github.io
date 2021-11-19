@@ -1,6 +1,6 @@
 ---
 title:  "Mathematics"
-excerpt: "Latex test1"
+excerpt: "Mathematics INDEX"
 
 math_subject: Index
 use_math: true

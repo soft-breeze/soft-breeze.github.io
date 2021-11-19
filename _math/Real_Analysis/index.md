@@ -13,19 +13,19 @@ sidebar:
 
 Contents: (Following PMA)
 <ol>
-  Chap1 The Real and Complex Number Systems
-  <ul>
-    <li> Introduction
-    <li> Ordered Sets
-    <li> Fields
-    <li> The Real Field
-    <li> The Extended Real Number System
-    <li> The Complex Field
-    <li> Euclidean Spaces
-  <ul> (Appendix)
+  <li> Chap1 The Real and Complex Number Systems
+    <ul>
+      <li> Introduction
+      <li> Ordered Sets
+      <li> Fields
+      <li> The Real Field
+      <li> The Extended Real Number System
+      <li> The Complex Field
+      <li> Euclidean Spaces
+      (Appendix)
+    <\ul>
+<li> Chapter 2 Basic Topology
 
-  <li> Chapter 2 Basic Topology
-<ol> 
 Finite, Countable, and Uncountable Sets
 Metric Spaces
 Compact Sets

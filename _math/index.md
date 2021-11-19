@@ -24,6 +24,6 @@ Algebra
 Topology
 
 
-<a href="/math/test"> 
+<a href="/math/test">
 TEST
 <a>

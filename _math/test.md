@@ -23,7 +23,7 @@ $$
 
 
 $$
-\mathrm{i} \hbar \partial_t \Psi = - \frac{\hbar^{2} }{2m_{e}} \nabla^{2} \Psi + V \Psi \label{eq1} \tag{1}
+\mathrm{i} \hbar \partial_t \Psi = - \frac{\hbar^{2} }{2m_{e}} \nabla^{2} \Psi + V \Psi \label{eq:1} \tag{1}
 
 $$
 

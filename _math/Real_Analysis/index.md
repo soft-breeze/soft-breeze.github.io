@@ -1,6 +1,6 @@
 ---
 title:  "Real Analysis Contents"
-excerpt: "Latex test1"
+excerpt: "Index"
 
 math_subject: Index
 use_math: true
@@ -10,7 +10,6 @@ author_profile: true
 sidebar:
   nav: "side"
 ---
-
 
 Contents: (Following PMA)
 Chap1 The Real and Complex Number Systems
